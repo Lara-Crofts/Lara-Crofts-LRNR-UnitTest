@@ -75,3 +75,18 @@ Start the server
 ```bash
  npm start 
 ```
+
+
+------
+
+
+## FRONT END TEST CASES / CYPRESS 
+Please go to the file frontendTest.cy.js inside of 
+cyprress --> 2e2 --> 2-advanced-examples --> frontendTest.cy.js
+run tests command: npm run cy:open
+
+
+## BACKEND END TEST CASES / JEST 
+cd //lrnr-backend
+--> backend.test.js
+run tests command: npm test backend.test.js
